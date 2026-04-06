@@ -1,7 +1,8 @@
-# Financial Health Strategic Dashboard - CFO Suite
+# Financial Health Strategic Dashboard 
 
 Visão Geral
-Este é um dashboard de Saúde Financeira Corporativa projetado para o alto escalão (C-Level). Diferente de dashboards operacionais, esta solução foca na rentabilidade real do negócio, consolidando métricas de lucratividade, controle de despesas operacionais (OPEX) e monitoramento de liquidez.
+
+Este é um dashboard de Saúde Financeira Corporativa projetado para o alto escalão (C-Level). 
 
 # Visualizar Dashboard Online 
 
